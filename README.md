@@ -62,7 +62,7 @@ Database created and sample data inserted ✅
 ### Step-2: Run Analysis & Plot Chart
 
 ```
-python task7_script.py
+python script.py
 ```
 
 Output:
