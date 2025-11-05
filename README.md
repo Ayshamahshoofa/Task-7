@@ -103,9 +103,3 @@ This task successfully:
 
 ---
 
-
-* ✅ GitHub commit message
-* ✅ Folder structure screenshot sample
-* ✅ PPT for this task
-
-Just tell me!
